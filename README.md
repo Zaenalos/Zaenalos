@@ -14,7 +14,7 @@
 
   <h2>My Skills</h2>
 
-  [![SKILLS](https://skillicons.dev/icons?i=powershell,js,lua,html,css,py,c,cpp,php,linux)](https://github.com/Zaenalos)
+  [![SKILLS](https://skillicons.dev/icons?i=powershell,js,lua,html,css,py,java,cpp,php,linux)](https://github.com/Zaenalos)
 
 </div>
 
