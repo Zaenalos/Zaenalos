@@ -6,7 +6,7 @@
 
 <div align="center">
 
- [![Discord Presence](https://lanyard.cnrad.dev/api/730656920192417803/bg=:#2cbfbf)](https://discord.com/users/730656920192417803)
+ [![Discord Presence](https://lanyard.cnrad.dev/api/730656920192417803/bg=:#2cbfbf/theme=:light)](https://discord.com/users/730656920192417803)
 
 </div>
 
