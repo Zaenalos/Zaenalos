@@ -10,7 +10,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zaenalos&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaenalos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Join my server
+### ⬇️ Join my server ⬇️
   [![REP](http://invidget.switchblade.xyz/pFaGuMusvb)](https://discord.com/invite/pFaGuMusvb)
 
 ---
