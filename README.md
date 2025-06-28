@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaenalos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ⬇️ Join my server ⬇️
-  [![REP](http://invidget.switchblade.xyz/pFaGuMusvb)](https://discord.com/invite/efR2Z4esbV)
+  [![REP](http://invidget.switchblade.xyz/efR2Z4esbV)](https://discord.com/invite/efR2Z4esbV)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Zaenalos&icon=0&color=0)](https://visitcount.itsvg.in)
