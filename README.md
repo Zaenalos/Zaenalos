@@ -1,34 +1,22 @@
+<pre align="center">
+ 
+███████  █████  ███████ ███    ██  █████  ██       ██████  ███████ 
+   ███  ██   ██ ██      ████   ██ ██   ██ ██      ██    ██ ██      
+  ███   ███████ █████   ██ ██  ██ ███████ ██      ██    ██ ███████ 
+ ███    ██   ██ ██      ██  ██ ██ ██   ██ ██      ██    ██      ██ 
+███████ ██   ██ ███████ ██   ████ ██   ██ ███████  ██████  ███████ 
+ 
+</pre>
+
+## Who am I
+Just a 4th-year student with great interest in reverse engineering, compilers, low-level programming, and software development.
+
+## Links
+- [Portfolio](https://zaenalos-portfolio.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/rameses-chamian/)
+- [Discord](https://discord.com/users/1443566247932592212)
+  
+---
 <div align="center">
-
-# 👋 Hi, I'm Zaenalos
-I love Lua.
-
----
-
-## 💻 Languages & Tools
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Zaenalos&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Zaenalos&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaenalos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🌐 Connect with Me
-[![Discord](http://invidget.switchblade.xyz/efR2Z4esbV)](https://discord.com/invite/efR2Z4esbV)  
-
-[![](https://visitcount.itsvg.in/api?id=Zaenalos&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxpcHo1NW9xYXVmajIwZ3c2aDNqMm5mNWN5cjc4cWc0dHl2djhjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif">
 </div>
