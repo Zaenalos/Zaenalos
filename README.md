@@ -5,7 +5,9 @@
 <br>
 
 ```
-Just a guy with great interest in reverse engineering, compilers, low-level programming, and software development.
+Just a guy with great interest in
+reverse engineering, compilers,
+low-level programming, and software development.
 ```
 
 <br>
